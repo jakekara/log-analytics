@@ -1,0 +1,6 @@
+accesslogs/*
+*~
+#*#
+*.csv
+*.db
+gz/*
